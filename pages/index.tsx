@@ -15,11 +15,11 @@ const Home: NextPage = () => {
     <>
       <Head>
         <title>Sullivan Dcesaris | Criação de Sites Profissionais e Responsivos</title>
-        <meta content="Example" name="description" />
-        <meta property="og:url" content="example.com" />
-        <meta property="og:description" content="Example" />
-        <meta property="og:title" content="Example" />
-        <meta property="og:image" content="" />
+        <meta content="Sullivan Dcesaris" name="description" />
+        <meta property="og:url" content="sullivandcesaris.com.br" />
+        <meta property="og:description" content="Criação de Sites Profissionais e Responsivos" />
+        <meta property="og:title" content="Sullivan Dcesaris" />
+        <meta property="og:image" content="images/logo.png" />
         <link rel="shortcut icon" href="/favicon.png" />
       </Head>
       <div className="h-full leading-normal text-gray-600">
